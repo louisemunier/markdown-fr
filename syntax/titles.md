@@ -26,15 +26,18 @@ Atx-style headers use 1-6 hash characters at the start of the line, correspondin
 ###### This is an H6
 ```
 
-
-Optionally, you may “close” atx-style headers. This is purely cosmetic — you can use this if you think it looks better. The closing hashes don’t even need to match the number of hashes used to open the header. (The number of opening hashes determines the header level.) :
+Optionally, you may “close” atx-style headers. This is purely cosmetic — you can use this if you think it looks better. The closing hashes don’t even need to match the number of hashes used to open the header. (The number of opening hashes determines the header level.) :  
+_Facultatif, vous pouvez "fermer" les styles atx des entêtes. C'est purement esthétique - vous pouvez utiliser ces marqueurs si vous pensez que c'est mieux. Les dièses de fermetures ne sont pas nécessaires pour faire correspondre le nombre de dièses utilisées pour créer l'entête correspondante. (C'est le nombre de dièses ouvrantes qui détermine la taille de l'entête.):_
 
 ```
 # This is an H1 #
+# _C'est une balise H1_ #
 
 ## This is an H2 ##
+## _C'est une balise H2_ ##
 
 ### This is an H3 ######
+### C'est une balise H3_ ###
 ```
 
 
